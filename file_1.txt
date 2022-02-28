@@ -45,3 +45,6 @@ I'm
 Adding
 Text!
 testing some more
+Hello
+Thank you for the class
+It is great
